@@ -20,7 +20,7 @@ class DatabaseManager:
         self.host = "localhost"
         self.port = "3306" 
         self.database = "rubrica"
-        self.username = "root"
+        self.username = "rubrica_user"
         self.password = "lucapisani"
         
         if os.path.exists(self.config_file):
