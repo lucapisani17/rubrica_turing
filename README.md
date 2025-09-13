@@ -4,11 +4,10 @@ Applicazione Python per la gestione di contatti personali con interfaccia grafic
 
 ## Caratteristiche
 
-- Interfaccia grafica intuitiva
-- Login con autenticazione
+- Interfaccia grafica
+- Login
 - Aggiunta, modifica, eliminazione contatti
-- Persistenza dati su database MySQL
-- Architettura modulare (separazione file come progetto Java)
+- Persistenza dati su database MySQL / file di testo
 
 ## Prerequisiti
 
