@@ -1,4 +1,4 @@
-from persona_v1 import Persona
+from persona import Persona
 from mysql.connector import Error
 from database_manager import DatabaseManager
 from tkinter import messagebox
