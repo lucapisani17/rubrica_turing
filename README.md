@@ -2,6 +2,13 @@
 
 Applicazione Python per la gestione di contatti personali con interfaccia grafica tkinter e database MySQL.
 
+## Versioni
+
+Il file persona_v1.py corrisponde alla prima versione del progetto e rispecchia i requisiti minimi essenziali (quelli facoltativi sono esclusi). Per eseguirla è sufficiente lanciare il comando python3 persona_v1.py.
+Il file personaDB.py rappresente l'evoluzione del primo con l' introduzione di alcuni dei requisiti facoltativi proposti.
+Attenzione: alcuni requisiti come  l'aggiunta dei bottoni nella toolbar o la modifica del salvataggio dei dati sul file non sono stati realizzati in quanto ritenuti non efficienti (vista la successiva implementazione del db).
+Nella directory progetto_turing/rubrica_project è presente la versione "personaDB.py" ma modularizzata e definitiva.
+
 ## Caratteristiche
 
 - Interfaccia grafica
